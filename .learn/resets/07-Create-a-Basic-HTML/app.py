@@ -10,5 +10,4 @@ h = '<body>'
 # ❌ ⬆ DON'T CHANGE THE CODE ABOVE ⬆ ❌
 
 # ✅ ↓ start coding below here ↓ ✅
-print(a+b+c+d+e+f+g+h)
 
